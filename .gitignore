@@ -52,3 +52,10 @@ docs/_build/
 
 # PyBuilder
 target/
+
+.DS_Store
+.idea
+
+# big files
+enron_mail_20110402.tgz
+enron_mail_20110402
